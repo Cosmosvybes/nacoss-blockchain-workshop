@@ -14,7 +14,7 @@ interface IERC20 {
     function allowance(
         address _owner,
         address _spender
-    ) external returns (uint);`
+    ) external returns (uint);
 
     // event
     event Transfer(address indexed _from, address indexed _to, uint _amount);
