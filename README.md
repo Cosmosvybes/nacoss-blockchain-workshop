@@ -1,4 +1,4 @@
-## 3D Blockchain work-shop
+## 3Day Blockchain work-shop
 - In this three-day work shop we were able to dive into the world of blockchain , and its intricacies. and after which we built an ERC-20 token.
 - We used the foundry tool to build and test the token, and also used for the deployement to the test-network.
 
